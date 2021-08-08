@@ -1,6 +1,7 @@
  <h3>Hi there, I'm <a href="https://cjh-store.github.io">Deja-vu</a> 👋 </h3> This is the place where I opensource stuff and break things 🐱‍🏍
 <br/>
- <img  alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="380"/> <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif --> 
+<br/>
+ <img  alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="380" style="margin-top:20px"/> <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif --> 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
