@@ -1,3 +1,5 @@
+## Hi there, I'm [Deja-vu!](https://cjh-store.github.io) 👋
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -13,4 +15,7 @@
 ![Node](https://img.shields.io/badge/-Node.js-%232c3e50?style=flat-square&logo=Node.js)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjh-store&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjh-store&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
