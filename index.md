@@ -1,4 +1,5 @@
-### Hi there, I'm [Deja-vu!](https://cjh-store.github.io) 👋
+ <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="380"/> <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif --> 
+ <h3>Hi there, I'm <a href="https://cjh-store.github.io">Deja-vu</a> 👋 </h3> This is the place where I opensource stuff and break things 🐱‍🏍
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -15,7 +16,9 @@
 ![Node](https://img.shields.io/badge/-Node.js-%232c3e50?style=flat-square&logo=Node.js)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjh-store&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjh-store&layout=compact)](https://github.com/cjh-store)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjh-store&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjh-store&show_icons=true&theme=vue)](https://github.com/cjh-store)
+
+
 
